@@ -49,8 +49,8 @@ Sistema completo de gerenciamento de pedidos para qualquer lanchonete, restauran
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
-cd ProjetoFastAPI
+git clone https://github.com/IcaroMoreir4/Sistema-de-Pedidos
+cd Sistema-de-Pedidos
 ```
 
 ### 2. Crie um ambiente virtual (recomendado)
@@ -344,21 +344,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 - **Issues**: Use o sistema de issues do GitHub
 - **Documentação**: Consulte `/docs` na aplicação rodando
-- **Email**: dev@restaurante.com
-
-## 🎯 Roadmap
-
-- [ ] Sistema de notificações
-- [ ] Relatórios e analytics
-- [ ] Integração com sistemas de pagamento
-- [ ] API para aplicativos móveis
-- [ ] Sistema de cupons e descontos
-- [ ] Dashboard administrativo
-- [ ] Testes automatizados
-- [ ] CI/CD pipeline
-
----
-
-**🍽️ Desenvolvido com ❤️ usando FastAPI**
-
-*Última atualização: Dezembro 2024*
+- **Email**: icaromoreira90@gmail.com
